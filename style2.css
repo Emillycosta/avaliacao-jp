@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Bloody';
+    src: url('BLODDY.TTF') format(truetype);
+}
+
+
+body{
+padding: 0;
+margin: 0;
+color: white;
+}
+
+div{
+    background: linear-gradient(white, black);
+    width: 100%;
+    height: 900px;
+    margin-bottom: 4px;
+    border: 5px;
+}
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+p{
+    text-align: center;
+}
+.hobbie{
+    background: linear-gradient(rgb(240, 233, 233), rgb(238, 200, 225));
+    color: black;
+    width: 100%;
+    height: 900px;
+    margin-bottom: 4px;
+    border: 5px;
+    font-family: 'Bloody',Arial, Times;
+}
+.font{
+    color: Black;
+    padding-top: 10px;
+}
+h1{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   text-align: center;
+   color: white;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    margin-bottom: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fotostranger{
+    width: 295px;
+    height: 350px;
+    border-radius: 50%;
+    align-items: center;
+    margin-left:800px;
+    margin-top: 20px;
+
+}   
+.movieh2{
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 900px;
+    margin-bottom: 4px;
+    border: 5px;
+}
+.movieh3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+}
+.prefero{
+    padding-top: 120px;
+    color: black;
+
+}
+
+
+ div.prefer{
+    background: linear-gradient(rgb(236, 148, 148), rgb(221, 218, 220));
+    color: black;
+    width: 100%;
+    height: 1350px;
+    margin-bottom: 4px;
+    border: 5px;
+    font-family: 'Bloody',Arial, Times;
+    align-items: center;
+    
+}
+div.conhecimento{
+    background: linear-gradient(rgb(236, 148, 148), rgb(221, 218, 220));
+    width: 100%;
+    height: 700px;
+    align-items: center;
+    font-family: 'Bloody',Arial, Times;
+
+}
+h2{
+    margin-top: 30px;
+    text-align: center;
+color: white;
+font-family: 'Bloody',Arial, Times;
+
+
+}
+img{
+    width: 300px;
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 250px;
+}
+.video{
+    width: 350px;
+    height: 450px;
+    padding-left: 800px;
+}
+ 
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+
+footer{
+    color: white;
+    background: black;
+    text-align: center;
+}
